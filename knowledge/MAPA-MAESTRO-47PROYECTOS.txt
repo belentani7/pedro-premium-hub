@@ -1,0 +1,390 @@
+# MAPA MAESTRO DE PROYECTOS - Pedro Belentani
+# Generado: 2026-07-24
+# NO MOVER NADA - Solo referencia
+
+================================================================================
+ RESUMEN: 47+ PROYECTOS DETECTADOS EN TODO EL SISTEMA
+================================================================================
+
+================================================================================
+ SECCIÓN A: PROYECTOS MUSICALES / ARTÍSTICOS (Belentani)
+================================================================================
+
+1.  DUCK - PRODUCCIÓN MUSICAL (WEB PRINCIPAL)
+    Ubicación: C:\Users\USER\Documents\Proyectos\DUCK\
+    También: C:\Users\USER\Documents\01_PROYECTOS\activos\Duck_HeyDuck\
+    Deploy: https://belentani7.github.io/heyduck/
+    Tech: HTML5/CSS3/JS, GSAP 3.12.5, Three.js r128, Lenis 1.3.25, Web Audio API
+    Versiones: DUCK-MULTI.html, DUCK-MASSIVE.html, DUCK-UNIFICADO-COMPLETO.html, living-studio.html
+    Features: Efecto Slime Verde, Logo 3D, 4 idiomas (PT/ES/EN/FR), 12 singles, 15 herramientas estudio
+    Audit: C:\Users\USER\Documents\01_PROYECTOS\activos\_AUDITS\DUCK-100-PASOS.md
+    Audit: C:\Users\USER\Documents\01_PROYECTOS\activos\_AUDITS\DUCK-BUG-PLAN.md
+
+2.  BELENTANI OMEGA - JUDAS ERA (EXPERIENCIA INMERSIVA)
+    Ubicación: C:\Users\USER\Documents\JUDAS-PROYECTO\03-BELENTANI-OMEGA\
+    También: C:\Users\USER\Documents\01_PROYECTOS\activos\ (belentani-Omega.zip, belentani-Omega (2).zip)
+    Tech: WebGL, CSS clip-paths, glassmorphism, 29 imagenes base64
+    Fuentes: Orbitron, Cinzel Decorative, Chakra Petch, JetBrains Mono
+    Colores: Rojo sangre #ff003c, negro void #050505, verde terminal #00ff41
+    JS Modules: omega-engine, three-galaxy, portal-diamonds, aether-terminal, chat-widget, music-player, gallery-effects, contact-form
+    CSS: omega-premium.css (2092 lineas)
+    HTML: 7 paginas (index, artist, music, judas, gallery, studio, contact)
+    Estado: Ecosistema completo, 18 fixes aplicados
+
+3.  JUDAS-PROYECTO (CARPETA MEGA)
+    Ubicación: C:\Users\USER\Documents\JUDAS-PROYECTO\
+    Subcarpetas: 01-UNIFICADO, 02-JUDASERA, 03-BELENTANI-OMEGA, 04-MUSICA, 05-LEGACY-HTML
+    También: 06-CHATS, 07-CONSOLIDADO-RECIENTE, 08-DESKTOP-OMEGA, 09-WATERMARK-REMOVED
+    También: 10-LEGACY-BELENTANI, 11-COMPANY-BELENTANI, 12-MUSICA-LEGACY, 13-WEB-PROJECTS-LEGACY
+    También: 14-LEGACY-REMAINING
+    01-UNIFICADO contiene: 39 archivos (HTMLs multiple versiones, .docx, .py, .png, .jpg)
+    Judas Experience v1→v5-PREMIUM, belentani-judas-era-definitivo.html, judas-audio.html
+
+4.  BELER PROTOCOL CLI (mencionado en chats)
+    Mencionado en: gsap.txt, ESTADO-BELENTANI-OMEGA.txt
+    Referencia: "Belentani Protol CLI" y "Belentani Protol CLI completo"
+
+5.  BELER PHASE 9 (mencionado en chats)
+    Mencionado en: cv-regla-oro-prompt.txt
+
+6.  FAROL DUCKOS (mencionado en chats)
+    Mencionado en: cv-regla-oro-prompt.txt como "Proyecto Farol DuckOS completo"
+
+7.  BELER DIAMOND
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\ (verificar)
+    También mencionado: C:\Users\USER\Documents\01_PROYECTOS_ACTIVOS\Belentani-Diamond (en ANALISIS-COMPLETO)
+    Contenido: Solo .git (repositorio visual/diamante)
+
+8.  BELENTANI NEXT
+    Ubicación: C:\Users\USER\Documents\JUDAS-PROYECTO\belentani-next\
+    Tech: Next.js (tiene node_modules con typescript, tsparticles)
+
+9.  BELENTANI PROJECT
+    Ubicación: C:\Users\USER\Documents\JUDAS-PROYECTO\belentani-project\
+
+10. JUDAS EXPERIENCE (DESKTOP)
+    Ubicación: C:\Users\USER\Desktop\judas-experience\
+    Contenido: index.html
+
+================================================================================
+ SECCIÓN B: PROYECTOS WEB / FRONTEND
+================================================================================
+
+11. PORTFOLIO BELENTANI
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\ (verificar)
+    También: C:\Users\USER\Documents\01_PROYECTOS_ACTIVOS\Portfolio-Belentani (en ANALISIS-COMPLETO)
+    Tech: React, Tailwind CSS, TypeScript, PostCSS
+
+12. ARTE QUE VESTE - E-COMMERCE MODA
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\ (verificar)
+    También: C:\Users\USER\Desktop\ArteQueVeste-FINAL (en ANALISIS-COMPLETO)
+    También: C:\Users\USER\Documents\02_Proyectos\2026-07-15_Proyectos_ArteQueVeste\
+    Tech: HTML5/CSS3/JS vanilla
+    Contenido: Catalogo productos, galeria fotos, sistema pedidos
+
+13. LOJA - TIENDA ONLINE
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\LOJA\
+    Contenido: LOJA-ARTE-QUE-VESTE-MODA-AUTORAL-NORDESTINA.html, MANUAL PDF
+
+14. NATALIA - PORTFOLIO FOTOGRAFÍA
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\Natalia\
+    También: C:\Users\USER\Documents\02_Proyectos\ (natalia.html, fotos)
+    También: C:\Users\USER\Documents\01_PROYECTOS_ACTIVOS\Natalia (en ANALISIS-COMPLETO)
+    Tech: HTML5/CSS3/JS vanilla, 12 versiones HTML
+    También: C:\Users\USER\Documents\02_Proyectos\Proyecto_Natalia_Ideas.txt
+
+15. NATALIA MARINHO - MISS T SUPRANATIONAL
+    Contenido en: Nuevo Documento de texto (3).txt
+    Web: Portfolio Natalia Marinho (PT/ES/FR/EN)
+    Tema: Miss T Supranational 2025, moda, eventos, representación
+
+16. LUPA PROJECT - WIDGET REACT
+    Ubicación: C:\Users\USER\Desktop\lupa-project (en ANALISIS-COMPLETO)
+    Tech: React, Vite, TypeScript, Node.js
+
+17. LUPA WIDGET - APP REACT NATIVE
+    Ubicación: C:\Users\USER\Desktop\lupa-widget (en ANALISIS-COMPLETO)
+    Tech: React Native, Expo, TypeScript
+    Tamaño: 445 MB, 37,999 archivos
+
+================================================================================
+ SECCIÓN C: PROYECTOS DE VOZ / BOT
+================================================================================
+
+18. VOICE-BOT-FULL
+    Ubicación: C:\Users\USER\Documents\voice-bot-full\
+    Tech: Python, requirements.txt, server.py, src/, tests/
+    Contenido: Bot de voz completo
+
+19. VOICE-BOT-SAAS
+    Ubicación: C:\Users\USER\Documents\voice-bot-saas\
+    Tech: Python backend, frontend, Docker, docs, landing
+    Contenido: SaaS de voice bot con Makefile
+
+20. INSTAGRAM VOICE BOT
+    Ubicación: C:\Users\USER\instagram-voice-bot\ (referenciado en requirements.txt)
+
+21. VOICE-BOT (otra ubicación)
+    Ubicación: C:\Users\USER\voice-bot\ (referenciado en requirements.txt)
+
+================================================================================
+ SECCIÓN D: PROYECTOS DE IA / ML
+================================================================================
+
+22. WAN2GP - GENERACIÓN DE VIDEO IA
+    Ubicación: C:\Users\USER\Wan2GP (en ANALISIS-COMPLETO)
+    Tech: Python, Docker, Stable Diffusion
+    Contenido: wgp.py, Dockerfile, docker-compose.yaml, models/
+
+23. ACE-STEP - MÚSICA IA
+    Ubicación: C:\Users\USER\ACE-Step (en ANALISIS-COMPLETO)
+    Tech: Python, Machine Learning, Audio Processing
+    Contenido: infer.py, trainer.py, acestep/
+
+24. LLM-P30-PRO - MODELOS LLM LOCALES
+    Ubicación: C:\Users\USER\Desktop\LLM-P30-PRO (en ANALISIS-COMPLETO)
+    Tamaño: 5,697 MB
+    Tech: Modelos de IA, Ollama
+
+25. QWENCLOUD-GENERATOR
+    Ubicación: C:\Users\USER\qwencloud-generator\
+    Contenido: requirements.txt, proxy.txt
+
+26. MULTI-LLM-ROUTER
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\multi-llm-router\
+    Tech: Python backend, frontend, config YAML
+    Contenido: backend/, frontend/, src/, docs/
+
+27. OPENHANDS - AGENT CANVAS
+    Ubicación: C:\Users\USER\.openhands\agent-canvas\
+    Contenido: api-key.txt, secret-key.txt
+
+================================================================================
+ SECCIÓN E: PROYECTOS DE AUTOMATIZACIÓN / MCP
+================================================================================
+
+28. AUTOClaw-REPOS (33 repos clonados)
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\autoclaw-repos\
+    Contenido: 33 repos de skills/agentes OpenClaw
+    Incluye: hyqibot, AionUi, openclaw-optimizer, obsidian-skills, master-skills, etc.
+
+29. SUPERPOWERS (AGENTS/SKILLS FRAMEWORK)
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\superpowers\
+    Contenido: .agents/, skills/, hooks/, tests/, docs/
+    Plugins: .claude-plugin/, .codex-plugin/, .cursor-plugin/, .kimi-plugin/, .opencode/
+
+30. META-BUILDER
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\meta-builder\
+    Tech: Node.js (index.js, config.js, src/)
+    Contenido: prompts/, examples.md
+
+31. WEB-EXTRACTOR-PRO
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\web-extractor-pro\
+    Tech: backend/, frontend/, start.bat
+
+32. BELLACORE
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\Bellacore\
+    Contenido: Bellacore_Agent/, Bellacore_Core/
+
+33. BLENDER MCP ADDON
+    Ubicación: C:\Users\USER\Desktop\blender_mcp_addon.py
+    Archivo suelto: addon para Blender MCP
+
+34. MCP ECOSYSTEM (doc)
+    Ubicación: C:\Users\USER\Desktop\MCP_ECOSYSTEM.md
+
+================================================================================
+ SECCIÓN F: PROYECTOS DE INVESTIGACIÓN / NEGOCIO
+================================================================================
+
+35. RESEARCH (6 carpetas)
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\research\
+    Contenido: ai-money-agent, ecommerce-sergipe-fashion, find-lost-bluetooth-earbuds, lost-jbl-earbuds, nuvemshop-ecosystem, nuvemshop
+
+36. PROYECTO DIGITAL RENTABLE
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\PROYECTO-DIGITAL-RENTABLE\
+    Tech: Python, FastAPI, PostgreSQL
+    Contenido: main.py, api/, core/, models/
+
+37. CRUZANDO EL CHARCO (LGBTQ+ MIGRANTES)
+    Mencionado en: chat-Apoyo para migrantes LGBT+.txt, chat-Barcelona LGTBIQ+ Guía.txt
+    Plataforma: Lovable (React/TypeScript)
+    Contenido: Recursos legales, salud, vivienda, comunidad para migrantes LGBT+ en Barcelona
+    Multiidioma: español, árabe, portugués, catalán
+
+38. DIVERSIDADCONSCIENTE (WEB EDUCATIVA LGBT+)
+    Mencionado en: chat-Optimización Integral Web LGBT+.txt
+    Contenido: 57,263 líneas de contenido educativo LGBT+, giftedness, neurodivergencia
+
+39. AION WORKFORCE
+    Mencionado en: cv-regla-oro-prompt.txt, GOOGLE.txt
+    Contenido: "Código completo Aion Workforce"
+
+================================================================================
+ SECCIÓN G: PROYECTOS DE SEGURIDAD / SCRIPTS
+================================================================================
+
+40. SEGURIDAD_SCRIPTS (14 scripts)
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\SEGURIDAD_SCRIPTS\
+    Contenido: security_audit.ps1, mitm_audit.ps1, mitm_hardening.ps1, windows_hardening_complete.ps1, firewall_outbound_restrictive.ps1, router_hardening_checklist.ps1, etc.
+
+41. AIDER-PROJECT
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\aider-project\
+    Contenido: .aider.chat.history.md, hello.py
+
+42. SCRIPTS VARIOS
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\scripts\
+    Contenido: ai-switch.ps1, groq-chat.ps1
+
+================================================================================
+ SECCIÓN H: PROYECTOS DE DESARROLLO / SDK
+================================================================================
+
+43. PROJECTS (template)
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\Projects\
+    Contenido: .env, quickstart.ps1
+
+44. ROADMAP-REPOS
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\roadmap-repos\
+    Contenido: GSAP/, three.js/
+
+================================================================================
+ SECCIÓN I: PROYECTOS LEGACY / ARCHIVO
+================================================================================
+
+45. PROYECTOS-ROOT (WORKSPACE GENERAL)
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\_LEGACY\Proyectos-root\
+    También: C:\Users\USER\Documents\01_PROYECTOS_ACTIVOS\Proyectos-root (en ANALISIS-COMPLETO)
+    Tamaño: 8,735 MB, 30,576 archivos
+    Contenido: agenticSeek, ai-ecommerce-generator, ai-tools, BELENTANI-WORKSPACE, etc.
+
+46. PROYECTOS-LEGACY
+    Ubicación: C:\Users\USER\Documents\01_PROYECTOS\activos\_LEGACY\proyectos-legacy\
+    Tamaño: 3,007 MB, 21,543 archivos
+
+47. HEYDUCK / HEYDUCK-DEPLOY
+    Ubicación: C:\Users\USER\Desktop\heyduck (en ANALISIS-COMPLETO)
+    También: C:\Users\USER\Desktop\heyduck-deploy
+    Deploy: GitHub Pages
+
+================================================================================
+ SECCIÓN J: HERRAMIENTAS CLI INSTALADAS
+================================================================================
+
+48. HERMES 0.15.2 - CLI principal
+49. GEMINI CLI 0.52.0
+50. QWEN CODE 0.19.9
+51. AIDER 0.86.2
+52. LITELLM 1.83.7
+53. MIMO 0.1.5 → 0.1.9 (actualizado hoy)
+54. OPENCODE 1.18.4 (instalado hoy)
+55. PYTHON 3.14.6
+56. NODE.JS v26.3.1
+57. GIT 2.55.0 + GH CLI 2.95.0
+
+================================================================================
+ SECCIÓN K: APIs CONFIGURADAS
+================================================================================
+
+58. OpenRouter (sk-or-v1-...) - 28+ modelos, 200 RPD gratis
+59. OpenAI (sk-proj-g6...) - Configurado hoy para Codex
+60. Google Gemini (AQ.Ab8...) - 1500 RPD gratis
+61. DeepSeek (sk-2eea...)
+62. xAI Grok (xai-HYy...)
+63. NVIDIA NIM (nvapi-_w...) - 109 modelos, 40 RPM
+64. Anthropic (sk-ant-T...) - Evitar
+65. Firecrawl (fc-7...)
+66. GitHub (gith...)
+67. DashScope/Qwen (DASHSCOPE_API_KEY)
+
+================================================================================
+ SECCIÓN L: CHATS EXPORTADOS (DOWNLOADS)
+================================================================================
+
+68. chat-Creación de Skills Seguros y Funcionales.txt (4020 líneas)
+69. chat-Barcelona LGTBIQ+ Guía.txt (499 líneas)
+70. chat-Creación y Verificación de Habilidades para Claudia.txt (1494 líneas)
+71. chat-Apoyo para migrantes LGBT+.txt (3717 líneas)
+72. chat-Optimización Integral Web LGBT+.txt (57,263 líneas)
+73. chat-Crear Correos y Repositorios Git.txt (101 líneas)
+74. chat-DJ Studio Frontend Completo.txt (2278 líneas)
+75. chat-Cumplimiento RGPD y Seguridad en Automatización.txt (2418 líneas)
+
+================================================================================
+ SECCIÓN M: DOCUMENTOS CLAVE EN DESKTOP
+================================================================================
+
+76. RESUMEN_NEGOCIO_2026-07-23.txt - Plan negocio agencia social media
+77. ESTADO-CLIs-APIs.txt - Inventario completo de CLIs y APIs
+78. ESTADO-BELENTANI-OMEGA.txt - Estado del sistema Belentani Omega
+79. ANALISIS-COMPLETO-PROYECTOS.txt - 19 proyectos analizados (~19GB)
+80. gsap.txt - Blueprint técnico belentani.es
+81. ggg.txt - Blueprint definitivo belentani.es v11 (24 secciones)
+82. bbb.txt - Misión ecosistema creativo MCP
+83. vvv.txt - Claude Desktop + Blender + Render
+84. fff.txt - Sitio web DUCK completo (HTML/CSS/JS)
+85. clis.txt - Guía setup agentes IA + API keys
+86. GOOGLE.txt - Investigación MitM/Google Takeout
+87. cv-regla-oro-prompt.txt - Prompt diario capacidades tecnológicas
+88. z.ai.txt - Tokens/claves Z.AI
+89. glary.txt - Guía optimización Windows
+90. mimo.txt - Repo MiMoCode GitHub
+
+================================================================================
+ SECCIÓN N: ARCHIVOS EN NUEVA CARPETA
+================================================================================
+
+91. PATRONES-PROFESIONALES-PSICOLOGICOS-COMPLETO.txt
+92. chat-Magia del Estudio Belentani (1).txt
+93. 02-DOCUMENTOS/JUDAS-EXPERIENCE-TEXTO-COMPLETO.txt
+94. 02-DOCUMENTOS/COMPILACION_MASIVA_THIAGO.txt
+95. 02-DOCUMENTOS/NARRATIVA_UNICA_COHERENTE.txt
+96. 02-DOCUMENTOS/COMPILACION_CRONOLOGICA_ORDENADA.txt
+97. 02-DOCUMENTOS/RESUMEN_COMPILACION.txt
+98. 02-DOCUMENTOS/CRONOLOGIA_COMPLETA.txt
+99. 02-DOCUMENTOS/ANALISIS_Y_REFLEXIONES.txt
+100. 02-DOCUMENTOS/INFORMACIÓN_DEL_MANUSCRITO_FINAL.txt
+101. 02-DOCUMENTOS/DEDICATORIA-para-Thiago.txt
+102. Aquí tienes el código completo orig.txt
+103. 653411221.txt
+
+================================================================================
+ SECCIÓN O: ONEDRIVE / BACKUPS
+================================================================================
+
+104. OneDrive\Documents\elisendahg@hotmail.com.txt
+105. OneDrive\Documents\importante.txt
+106. OneDrive\Documents\653411221.txt
+107. OneDrive\Documents\REPORTE-FORENSE-PROYECTOS-2026-07-12.txt
+108. OneDrive\Documents\Nuevo documento de texto (3).txt
+109. OneDrive\Documents\Nuevo documento de texto.txt
+
+================================================================================
+ SECCIÓN P: OTROS ARCHIVOS NOTABLES
+================================================================================
+
+110. chat-Configuración Avanzada de Agentes IA.txt (Pictures, 10675 líneas)
+111. mimo mi vida - copia.txt (Pictures)
+112. LEEME.txt (Pictures\web-react, jj\web-react)
+113. DEPLOY-GUIA.txt (Pictures\extras, jj\extras)
+114. plantilla_factura.txt (Pictures\docs\facturas)
+115. judas-fotos-links.txt (JUDAS-PROYECTO\01-UNIFICADO)
+116. expert-sop-im.txt (.openclaw-autoclaw)
+117. qwencloud-generator/requirements.txt
+118. instagram-voice-bot/requirements.txt
+119. voice-bot/requirements.txt
+
+================================================================================
+ ESTADÍSTICAS
+================================================================================
+
+Proyectos únicos identificados: ~47
+Archivos .txt analizados: ~90+
+Tamaño total estimado: ~19 GB
+APIs configuradas: 11
+CLIs instalados: 10+
+Idiomas del usuario: Español, Portugués, Inglés, Francés, Catalán
+
+================================================================================
+ NOTA: Este archivo es solo REFERENCIA. No mover ni renombrar nada.
+================================================================================
