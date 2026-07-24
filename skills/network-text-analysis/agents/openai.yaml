@@ -1,0 +1,4 @@
+interface:
+  display_name: "Network Text Analysis"
+  short_description: "Analyze text as a network to find structural gaps, content blind spots, and generate novel ideas from disconnected topic clusters"
+  default_prompt: "Analyze this text using network thinking: extract key concepts, find topic clusters, identify structural gaps between them, and generate research questions that bridge those gaps."
